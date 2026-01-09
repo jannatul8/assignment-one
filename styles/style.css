@@ -139,7 +139,6 @@ nav .menu a{
 }
  
  .card-box .card-icon a{
-    background-image: url(/Images/Vector.png), url(/Images/Bookmarks.png), url(/Images/Brain.png), url(/Images/Info.png);
     width: 50px;
     height: 50px;
     background-color: tomato;
@@ -165,9 +164,6 @@ nav .menu a{
     justify-content: space-between;
     align-items: center;
     gap: 120px;
-}
-#brain .brain-img{
-    background-image: url(/Images/knowledge.png);
 }
 #brain .second-brain h5{
    font-size: 16px;
@@ -251,9 +247,7 @@ border-radius: 50px
     justify-content: space-between;
     margin-bottom: 80px;
 }
-#footer .footer-container .footer-logo{
-   background-image: url(/Images/logo-footer.png); 
-}
+
 #footer .footer-container .social-links h6{
     font-size: 20px;
     font-weight: 500;
